@@ -1,0 +1,24 @@
+header{
+    background: gainsboro ;
+    height: 100px;
+    color: white;
+       text-align: center;
+    
+}
+header nav li{
+    display: inline-block;
+    margin: 10px;
+    float: right;
+}
+footer{
+    height: 100px;
+    text-align: center;
+    background-color: gainsboro     ;
+    bottom: 0;
+   
+}
+form{
+    margin-top: 30px;
+    margin-bottom: 245px;
+    background: gainsboro;
+}
